@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "enzyme-adapter-react-16": "^1.7.1",
+    "node-sass": "^4.11.0",
     "react": "^16.7.0",
     "react-bootstrap": "^0.32.4",
     "react-dom": "^16.7.0",
